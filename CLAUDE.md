@@ -2,7 +2,7 @@
 
 FM screech synth (VST3 + CLAP, JUCE 8.0.4). The user's own standalone remake (2026-10-27) of an earlier synth of
 theirs: same DSP, same 39 parameters (IDs, ranges, defaults) and the same 16 factory presets; only the look changed.
-The user is a hobby hardstyle producer (FL Studio 2024, Windows laptop), not a programmer; Polish or English, simple.
+Main host: FL Studio on Windows. Answer the owner in their language (Polish or English), simply.
 
 ## Identity (frozen once released — FL stores these in projects)
 - `PRODUCT_NAME` = `PLUGIN_NAME` = "voidbringer", company "sonicsystems"

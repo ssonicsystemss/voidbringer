@@ -4,6 +4,9 @@ FM screech synth for hardstyle / rawstyle by **sonicsystems** (VST3 + CLAP, Wind
 
 ![voidbringer](docs/gui.png)
 
+**Download:** [voidbringer-1.0.0-windows.zip](https://github.com/ssonicsystemss/voidbringer/releases/latest) (VST3 + CLAP, free).
+Copy `voidbringer.vst3` into `C:\Program Files\Common Files\VST3` and rescan plugins in your DAW.
+
 - 2-operator FM with feedback, 4x oversampled, mono / legato slides or 6-voice chords
 - LFO (tempo sync), lowpass / bandpass / vowel filter, distortion + multiband "OTT", soft clip
 - 16 factory presets, MY PRESETS, RANDOM with undo and FREEZE (right-click a control)

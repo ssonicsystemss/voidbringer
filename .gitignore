@@ -1,0 +1,4 @@
+build/
+out/
+deps
+build_out.txt

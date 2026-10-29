@@ -1,7 +1,5 @@
 # voidbringer
 
-FM screech synth for hardstyle / rawstyle by **sonicsystems** (VST3 + CLAP, Windows).
-
 ![voidbringer](docs/gui.png)
 
 **Download:** [voidbringer-1.0.0-windows.zip](https://github.com/ssonicsystemss/voidbringer/releases/latest) (VST3 + CLAP, free).
